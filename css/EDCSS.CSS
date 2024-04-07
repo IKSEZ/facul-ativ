@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(235, 226, 226);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.main-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.product-description {
+    font-size: 18px;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+.sub-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
